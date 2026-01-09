@@ -1,5 +1,3 @@
-# Pruebas_flujos
-
 # 🔐 Diagramas de Flujo de Autenticación - Hera.BFF
 
 ## 📋 Índice
